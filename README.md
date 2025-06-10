@@ -1,2 +1,1 @@
-# Git Practice
-## add header section
+# Hello from conflict-branch
