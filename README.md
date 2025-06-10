@@ -68,7 +68,8 @@ You can simply open the `index.html` file in any modern browser:
 
 ## 📸 Preview
 
-![Preview](GetInspiredSite.png)
+![GetInspiredSite](https://github.com/user-attachments/assets/eba433e0-5c9d-442a-8cc5-c54a1019494c)
+
 
 ## 🛠️ Tech Stack
 
