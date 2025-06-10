@@ -65,9 +65,7 @@ You can simply open the `index.html` file in any modern browser:
 
 ## 📸 Preview
 
-```markdown
 ![Preview](GetInspiredSite.png)
-```
 
 ## 🛠️ Tech Stack
 
