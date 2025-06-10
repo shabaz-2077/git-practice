@@ -1,4 +1,5 @@
-```markdown
+---
+
 # GetInspired 💡 – A Random Daily Quote Generator
 
 Welcome to **GetInspired**, a beginner-friendly mini web project built with **HTML**, **CSS**, and **JavaScript**. This app displays a **random inspirational quote** every time you click the "New Quote" button.
