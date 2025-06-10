@@ -1,18 +1,9 @@
----
-
-# GetInspired 💡 – A Random Daily Quote Generator
-
----
-
----
-### 📄 `README.md`
-
 ```markdown
 # GetInspired 💡 – A Random Daily Quote Generator
 
 Welcome to **GetInspired**, a beginner-friendly mini web project built with **HTML**, **CSS**, and **JavaScript**. This app displays a **random inspirational quote** every time you click the "New Quote" button.
 
-Learnings:
+**Learnings:**
 - DOM manipulation
 - Event handling in JavaScript
 - Styling with CSS
@@ -70,6 +61,7 @@ You can simply open the `index.html` file in any modern browser:
 
 ![GetInspiredSite](https://github.com/user-attachments/assets/eba433e0-5c9d-442a-8cc5-c54a1019494c)
 
+---
 
 ## 🛠️ Tech Stack
 
