@@ -1,7 +1,10 @@
+---
+
 # GetInspired 💡 – A Random Daily Quote Generator
 
 ---
 
+---
 ### 📄 `README.md`
 
 ```markdown
