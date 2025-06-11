@@ -13,3 +13,6 @@ function generateQuote() {
   const randomIndex = Math.floor(Math.random() * quotes.length);
   quoteElement.textContent = quotes[randomIndex];
 }
+"console.log('debug1');" 
+"console.log('debug2');" 
+"console.log('debug3');" 
