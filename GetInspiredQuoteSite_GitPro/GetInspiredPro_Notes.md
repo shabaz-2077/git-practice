@@ -1,10 +1,5 @@
-**Assalamualaikum,**
-
-Here’s your full **Stage 3 Git Mastery Summary Note**, written entirely from your perspective — ready to be saved in your journal, OneNote, or pasted into a Markdown file like `Stage3_GitMastery.md`.
-
 ---
 
-````markdown
 # 🌳 Stage 3 – Git Tree Mastery (My Learning Notes)
 
 📂 Folder: `GetInspiredQuoteSite_GitPro`  
