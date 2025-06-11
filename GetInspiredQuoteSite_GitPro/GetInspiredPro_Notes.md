@@ -1,6 +1,4 @@
----
-
-# Stage 3 – Git Tree Mastery (My Learning Notes)
+# 🌳 Stage 3 – Git Tree Mastery (My Learning Notes)
 
 📂 Folder: `GetInspiredQuoteSite_GitPro`  
 🧠 Purpose: Deep dive into pro-level Git commands like rebase, stash, squash, tagging, semantic commits, etc.
